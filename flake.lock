@@ -11,7 +11,7 @@
         "dirtyRev": "ea89bf0d8c547df46c6bfcd7eec7b64fc7238d81-dirty",
         "dirtyShortRev": "ea89bf0-dirty",
         "lastModified": 1696846958,
-        "narHash": "sha256-Fzgyk9burOs5/8C2d1cvusSfxa3DNUqtBWEA1I8ztsw=",
+        "narHash": "sha256-HaAgJBLIHnMe0pY2U32plJWtGWPJkW0J3zEYA+DkKLg=",
         "type": "git",
         "url": "file:///home/getpsyched/git/nix-starter-flakes?dir=rust"
       },
