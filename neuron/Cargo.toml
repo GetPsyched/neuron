@@ -1,9 +1,8 @@
 [package]
-name = "neuron-cli"
+name = "neuron"
 version = "0.1.0"
 authors = ["GetPsyched"]
 edition = "2021"
-description = "CLI for neuron"
+description = "neuron library"
 
 [dependencies]
-neuron = { path = "../neuron" }

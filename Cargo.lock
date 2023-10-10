@@ -3,5 +3,12 @@
 version = 3
 
 [[package]]
+name = "neuron"
+version = "0.1.0"
+
+[[package]]
 name = "neuron-cli"
 version = "0.1.0"
+dependencies = [
+ "neuron",
+]

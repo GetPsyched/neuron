@@ -1,6 +1,7 @@
 [workspace]
 
 members = [
+    "neuron",
     "neuron-cli",
 ]
 resolver = "2"
