@@ -1,0 +1,46 @@
+{
+  "nodes": {
+    "nix-env": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "dir": "rust",
+        "dirtyRev": "ea89bf0d8c547df46c6bfcd7eec7b64fc7238d81-dirty",
+        "dirtyShortRev": "ea89bf0-dirty",
+        "lastModified": 1696846958,
+        "narHash": "sha256-Fzgyk9burOs5/8C2d1cvusSfxa3DNUqtBWEA1I8ztsw=",
+        "type": "git",
+        "url": "file:///home/getpsyched/git/nix-starter-flakes?dir=rust"
+      },
+      "original": {
+        "dir": "rust",
+        "type": "git",
+        "url": "file:///home/getpsyched/git/nix-starter-flakes?dir=rust"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1695644571,
+        "narHash": "sha256-asS9dCCdlt1lPq0DLwkVBbVoEKuEuz+Zi3DG7pR/RxA=",
+        "path": "/nix/store/i6hq63805y784dml4j8pgkrz3lryxzld-source",
+        "rev": "6500b4580c2a1f3d0f980d32d285739d8e156d92",
+        "type": "path"
+      },
+      "original": {
+        "id": "nixpkgs",
+        "type": "indirect"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nix-env": "nix-env",
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
