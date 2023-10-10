@@ -1,0 +1,8 @@
+[package]
+name = "neuron-cli"
+version = "0.1.0"
+authors = ["GetPsyched"]
+edition = "2021"
+description = "CLI for neuron"
+
+[dependencies]

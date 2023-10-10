@@ -1,0 +1,16 @@
+[workspace]
+
+members = [
+    "neuron-cli",
+]
+resolver = "2"
+
+[workspace.metadata]
+name = "neuron"
+version = "0.1.0"
+authors = ["GetPsyched"]
+edition = "2021"
+description = "Neuron is a GUI + CLI application that helps boost discipline and productivity by lending tools useful for doing things efficiently."
+readme = "readme.md"
+repository = "https://github.com/GetPsyched/neuron"
+license-file = "LICENSE"
